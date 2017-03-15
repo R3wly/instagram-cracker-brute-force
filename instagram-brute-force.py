@@ -5,7 +5,6 @@ from pyvirtualdisplay import Display
 import re
 import requests
 import time
-print "rowly  the king"
 def guess_password(driver):
     
     with open("names.txt", "r") as f:
