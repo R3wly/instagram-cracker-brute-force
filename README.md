@@ -1,2 +1,3 @@
-# instagram-cracker-brute-force-
-i creat 10 month ago, low level but work>
+# instagram-cracker-brute-force
+Thats Work!
+if you not skid, you know what to do!
